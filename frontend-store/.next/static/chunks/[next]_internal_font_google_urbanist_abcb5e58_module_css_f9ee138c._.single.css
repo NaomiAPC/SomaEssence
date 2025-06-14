@@ -1,0 +1,20 @@
+/* [next]/internal/font/google/urbanist_abcb5e58.module.css [app-client] (css) */
+@font-face {
+  font-family: Urbanist Fallback;
+  src: local(Arial);
+  ascent-override: 95.93%;
+  descent-override: 25.24%;
+  line-gap-override: 0.0%;
+  size-adjust: 99.04%;
+}
+
+.urbanist_abcb5e58-module__QjhbmW__className {
+  font-family: Urbanist, Urbanist Fallback;
+  font-style: normal;
+}
+
+.urbanist_abcb5e58-module__QjhbmW__variable {
+  --font-geist-sans: "Urbanist", "Urbanist Fallback";
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_urbanist_abcb5e58_module_css_f9ee138c._.single.css.map*/

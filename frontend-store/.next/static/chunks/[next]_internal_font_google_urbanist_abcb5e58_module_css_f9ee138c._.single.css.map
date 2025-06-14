@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[next]/internal/font/google/urbanist_abcb5e58.module.css"],"sourcesContent":["@font-face {\n    font-family: 'Urbanist Fallback';\n    src: local(\"Arial\");\n    ascent-override: 95.93%;\ndescent-override: 25.24%;\nline-gap-override: 0.00%;\nsize-adjust: 99.04%;\n\n}\n.className {\n    font-family: 'Urbanist', 'Urbanist Fallback';\n    font-style: normal;\n\n}\n.variable {\n    --font-geist-sans: 'Urbanist', 'Urbanist Fallback';\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;;AASA;;;;;AAKA","ignoreList":[0]}}]
+}
