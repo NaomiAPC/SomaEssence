@@ -11,7 +11,7 @@ export interface Category {
           url: string;
           medium?: { url: string };
         };
-        // Puedes añadir otros tamaños si quieres
+  
       };
     };
   }

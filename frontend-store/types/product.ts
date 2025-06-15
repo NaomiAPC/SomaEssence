@@ -15,4 +15,6 @@ export type ProductType = {
     price: number;
     smell: string;
   };
+
+  
   
